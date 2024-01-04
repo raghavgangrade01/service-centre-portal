@@ -1,7 +1,7 @@
 # Service-Center-Portal-Online
-# Date of Project-06.10.2021-15.01.2022
+# Date of Project-15.01.2023
 
-# Abhinav Gangrade
+# Abhinav Gangrade/ Raghav gangrade
 # Overview
 This project basically an online portal for booking there bikes cars for servicing.You can login fill up the details of the bike/car and the service centre will allot the time accordingly as per there schedule.
 # Frameworks:
